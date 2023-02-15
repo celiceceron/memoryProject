@@ -4,7 +4,7 @@
 # About the project
 This project is part of Codecademy's Bootcamp.
 During the studies on fundamentals of CSS, the site was created to demonstrate how the box model works.<br>
-https://codepen.io/celiceceron/full/YzOPydY
+https://codepen.io/celiceceron/full/vYzENvd
 
 ## Gif demonstration
 ![Web 1]()
